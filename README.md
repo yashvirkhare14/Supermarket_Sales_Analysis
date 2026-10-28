@@ -1,4 +1,4 @@
-# Supermarket_Sales_Analysis
+# 🛒 Supermarket_Sales_Analysis
 A simple data analysis project using Python
 
 ## 📌 Project Overview
