@@ -36,7 +36,7 @@ Key Attributes
 - Customer Type: Shows whether the customer is a Member or Normal customer.
 
 ## 🔍 Project Workflow
-### Data Loading and Understanding
+### 1️⃣ Data Loading and Understanding
 - Loaded the dataset using Pandas.
 - Checked the number of rows and columns.
 - Reviewed column names, data types, and basic statistics
