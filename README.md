@@ -28,7 +28,7 @@ A simple data analysis project using Python
 - Records: 1,000
 - Features: 17
 - Target Variable: Total
-Key Attributes
+#####Key Attributes
 - Unit Price: Price of one product.
 - Quantity: Number of products purchased.
 - Product Line: Type of product purchased.
