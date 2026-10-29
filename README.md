@@ -51,7 +51,7 @@ A simple data analysis project using Python
 Seven questions were explored using simple Python code and graphs:
 1. What is the distribution of total sales?
  — Histogram
-<img width="756" height="573" alt="Screenshot 2026-10-29 132614" src="https://github.com/user-attachments/assets/12d2b7a2-8fb8-4eb3-92b2-124c4304a39d" />
+<img width="650" height="473" alt="Screenshot 2026-10-29 132614" src="https://github.com/user-attachments/assets/12d2b7a2-8fb8-4eb3-92b2-124c4304a39d" />
 3. How is unit price related to total sales? — Scatter plot
 4. How does quantity affect total sales? — Scatter plot
 5. Which product line has the highest average total sales? — Bar plot
